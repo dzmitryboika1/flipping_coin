@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/flippin_coin.iml" filepath="$PROJECT_DIR$/.idea/flippin_coin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flipping_coin/.idea/flipping_coin.iml" filepath="$PROJECT_DIR$/../flipping_coin/.idea/flipping_coin.iml" />
     </modules>
   </component>
 </project>
